@@ -51,7 +51,7 @@ A evolução da computação não teria sido possível sem marcos históricos co
 
 Alan Turing, um dos pais da computação moderna, formulou a ideia de uma máquina capaz de processar instruções de maneira sequencial e lógica, conceito fundamental para os computadores digitais. A Pascalina, ao demonstrar que **um mecanismo podia realizar operações aritméticas automaticamente**, contribuiu para a aceitação do pensamento mecanicista aplicado à lógica e à computação.
 
-## Conclusão
+---
 
 A Máquina de Pascal foi um divisor de águas na história da matemática e da tecnologia. Seu impacto não se limitou à contabilidade do século XVII, mas se estendeu à base da computação moderna, mostrando que os cálculos podiam ser manipulados por dispositivos mecânicos. Ao longo dos séculos, essa ideia evoluiu até os sistemas digitais contemporâneos, fazendo da Pascalina um dos primeiros passos na jornada da inteligência artificial e da automação computacional.
 

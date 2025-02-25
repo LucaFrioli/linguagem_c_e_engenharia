@@ -244,4 +244,4 @@ O **IBM 701** mostrou que computadores poderiam ser usados para mais do que cál
 
 O IBM System/360 estabeleceu a base para a **padronização da computação**, permitindo que diferentes modelos compartilhassem a mesma arquitetura. Essa abordagem influenciou diretamente o desenvolvimento dos **microprocessadores**, que levariam ao nascimento dos **computadores pessoais (PCs)** na década de 1970.
 
-Na próxima seção, exploraremos como o **surgimento dos microprocessadores** e o avanço da eletrônica possibilitaram a criação dos primeiros **computadores pessoais**, dando início à revolução digital que moldou o mundo moderno.
+Na próxima seção, exploraremos como o **surgimento dos microprocessadores** e o avanço da eletrônica possibilitaram a criação dos primeiros **computadores pessoais**, dando início à revolução digital que moldou o mundo moderno. Para continuar [clique aqui!](../../microprocessadores_e_computadores_pessoais_avante/readme.md)
