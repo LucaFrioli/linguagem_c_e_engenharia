@@ -1,4 +1,4 @@
-# **Estudos de C**  
+# **Estudos de C, processos de Engenharia Computacional e pensamento científico**  
 
 Aprender C não é apenas um passo para se tornar um programador, mas para se tornar um verdadeiro engenheiro de software. Diferente de linguagens de alto nível, que abstraem muitos detalhes do funcionamento do hardware, C permite que você entenda profundamente como um computador realmente opera, desde a manipulação da memória até a execução de instruções na CPU.
 
@@ -11,7 +11,7 @@ Se o objetivo é se tornar um profissional mais completo, capaz de atuar tanto n
 
 ---
 
-### **História da Computação e fundamentos do pensamento crítico e científico na área da T.I. (tempo sugerido 1 a 3 semanas para prender, aprofundar, testar e exercitar os conhecimentos)**
+### **História da Computação e fundamentos do pensamento crítico e científico na área da T.I. (tempo sugerido 1 a 3 semanas para aprender, aprofundar, testar e exercitar os conhecimentos)**
 
 - **O que é um computador? Definição e evolução.**
   - História da computação:
@@ -27,9 +27,10 @@ Se o objetivo é se tornar um profissional mais completo, capaz de atuar tanto n
   - Modelos matemáticos e a relação com engenharia computacional.
 
 **[Para iniciar o módulo clique aqui !](./historia_e_funamentos_da_computacao/readme.md)** (em processo de produção).
+
 [Bibliografia do primeiro módulo](#1-história-da-computação-e-pensamento-computacional)
 
-### **Fundametos da engenharia computacional (tempo sugerido 5 a 7 semanas para prender, aprofundar, testar e exercitar os conhecimentos)**
+### **Fundametos da engenharia computacional (tempo sugerido 5 a 7 semanas para aprender, aprofundar, testar e exercitar os conhecimentos)**
 
 
 #### **Fundamentos de Hardware e Arquitetura de Computadores**
