@@ -1,10 +1,10 @@
-### **A Transição para os Primeiros Computadores: Da Teoria à Revolução Digital**  
+# **A Transição para os Primeiros Computadores: Da Teoria à Revolução Digital**  
 
 O desenvolvimento dos primeiros computadores eletrônicos marcou uma das transformações mais significativas da história da humanidade. A transição da computação mecânica para a eletrônica foi impulsionada pelos avanços teóricos estabelecidos pela Máquina de Turing e pelo modelo de von Neumann, consolidando a ideia de máquinas programáveis capazes de processar informações de maneira flexível e eficiente. Esse período, que se estendeu do final da Segunda Guerra Mundial até a década de 1960, foi crucial para a formação da computação moderna e moldou o mundo digital que conhecemos hoje.  
 
 ---
 
-### **Impactos Científicos, Históricos e Antropológicos**  
+## **Impactos Científicos, Históricos e Antropológicos**  
 
 A transição para os primeiros computadores trouxe impactos profundos em diversos aspectos:  
 
@@ -14,7 +14,7 @@ A transição para os primeiros computadores trouxe impactos profundos em divers
 
 ---
 
-### **As Pessoas e Empresas Envolvidas**  
+## **As Pessoas e Empresas Envolvidas**  
 
 A construção dos primeiros computadores eletrônicos foi resultado de um esforço conjunto entre cientistas, engenheiros e grandes corporações. Alguns dos principais nomes e organizações envolvidas nesse processo foram:  
 
@@ -28,7 +28,7 @@ Esses pioneiros não apenas criaram as bases tecnológicas que sustentam a compu
 
 ---
 
-### **Importância para a Computação Moderna**  
+## **Importância para a Computação Moderna**  
 
 Os primeiros computadores eletrônicos trouxeram mudanças que moldaram o futuro da computação e pavimentaram o caminho para as tecnologias que utilizamos hoje. A introdução da programação armazenada, dos primeiros sistemas operacionais rudimentares e da padronização das arquiteturas computacionais possibilitou a criação de computadores mais acessíveis, eficientes e escaláveis.  
 

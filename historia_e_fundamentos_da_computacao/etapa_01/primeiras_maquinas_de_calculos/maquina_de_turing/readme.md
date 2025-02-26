@@ -1,6 +1,6 @@
-### **Alan Turing e a Revolução da Computação**  
+# **Alan Turing e a Revolução da Computação**  
 
-#### **Quem foi Alan Turing?**  
+## **Quem foi Alan Turing?**  
 
 Alan Mathison Turing (1912–1954) foi um matemático, lógico, criptoanalista e cientista da computação britânico, considerado um dos pais da computação moderna e da inteligência artificial. Sua genialidade foi crucial para a formalização dos conceitos fundamentais da computação e para a criação de dispositivos teóricos e práticos que revolucionaram a ciência e a tecnologia.  
 
@@ -8,7 +8,7 @@ Durante a Segunda Guerra Mundial, Turing trabalhou no centro de inteligência de
 
 ---  
 
-#### **O que era a Máquina de Turing?**  
+## **O que era a Máquina de Turing?**  
 
 A Máquina de Turing é um modelo teórico de computação que simula um dispositivo capaz de processar qualquer problema matematicamente computável. A ideia central é a de uma fita infinita dividida em células, onde cada célula pode conter um símbolo (geralmente 0 ou 1). Um cabeçote de leitura e escrita se move sobre essa fita seguindo um conjunto de regras predefinidas (um programa), podendo modificar os símbolos ou mudar de estado conforme necessário.  
 
@@ -23,7 +23,7 @@ Embora a Máquina de Turing seja uma construção teórica, ela estabeleceu o co
 
 ---  
 
-#### **Impactos Científicos e Tecnológicos**  
+## **Impactos Científicos e Tecnológicos**  
 
 O modelo de Turing demonstrou que qualquer problema matemático resolvível pode ser processado por uma máquina universal programável, consolidando a teoria da computação. Essa descoberta foi crucial para a criação das linguagens de programação e dos primeiros computadores eletrônicos. Além disso, os conceitos da Máquina de Turing ajudaram a definir os limites do que é ou não computável, dando origem a novas áreas da matemática e da lógica.  
 
@@ -31,7 +31,7 @@ Após a guerra, Turing trabalhou no desenvolvimento de um dos primeiros computad
 
 ---  
 
-#### **Contexto Histórico e Impactos**  
+## **Contexto Histórico e Impactos**  
 
 A Máquina de Turing surgiu em um momento crucial do século XX, quando o avanço da matemática e da engenharia eletrônica convergia para a criação de dispositivos de computação mais avançados. Sua aplicação na guerra, através da quebra de códigos criptográficos, demonstrou o poder prático da computação e acelerou os investimentos em máquinas programáveis.  
 
@@ -41,7 +41,7 @@ Infelizmente, apesar de suas contribuições, Turing foi perseguido pelo governo
 
 ---  
 
-### **A Transição para os Primeiros Computadores**  
+## **A Transição para os Primeiros Computadores**  
 
 A Máquina de Turing estabeleceu as bases teóricas para o desenvolvimento dos primeiros computadores reais. O conceito de uma máquina universal programável inspirou diretamente as arquiteturas computacionais modernas, como o modelo de von Neumann, que se tornou o padrão para os computadores eletrônicos.  
 

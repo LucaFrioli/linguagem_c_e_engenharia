@@ -56,4 +56,4 @@ Com o tempo, a matemática passou de uma simples ferramenta de contagem para um 
 
 O desenvolvimento da computação é fruto da necessidade humana de organizar e manipular informações. Desde as primeiras formas de contagem até os sistemas mecânicos mais avançados da Antiguidade, cada avanço foi crucial para a construção da matemática computacional moderna. Com esse conhecimento, podemos entender como a computação evoluiu e quais princípios ainda guiam a tecnologia atual.
 
-Para iso iremos falar de como o conceito matemático era aplicado dentro das principais máquinas matemáticas ao longo da história, a começar pelo próprio ábaco que teve grande influência histórica. Para isso [clique aqui!](./priemiras_maquinas_de_calculos/abaco/readme.md)
+Para iso iremos falar de como o conceito matemático era aplicado dentro das principais máquinas matemáticas ao longo da história, a começar pelo próprio ábaco que teve grande influência histórica. Para isso [clique aqui!](./primeiras_maquinas_de_calculos/abaco/readme.md)

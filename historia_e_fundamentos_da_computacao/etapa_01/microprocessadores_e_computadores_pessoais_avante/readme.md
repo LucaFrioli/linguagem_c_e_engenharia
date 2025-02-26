@@ -1,4 +1,4 @@
-### **Da Revolução dos Mainframes ao Primeiro Microprocessador: A Jornada Rumo ao Computador Pessoal**
+# **Da Revolução dos Mainframes ao Primeiro Microprocessador: A Jornada Rumo ao Computador Pessoal**
 
 A história da computação moderna é marcada por **rupturas tecnológicas** que redefiniram como a humanidade interage com máquinas e dados. Entre a chegada do **IBM System/360 em 1964** e a criação do **primeiro microprocessador em 1971**, ocorreram transformações profundas que pavimentaram o caminho para o surgimento dos **computadores pessoais (PCs)**. Essas mudanças não foram apenas incrementais, mas **alteraram fundamentalmente os paradigmas da computação**, tornando-a acessível a novos públicos e mercados.
 

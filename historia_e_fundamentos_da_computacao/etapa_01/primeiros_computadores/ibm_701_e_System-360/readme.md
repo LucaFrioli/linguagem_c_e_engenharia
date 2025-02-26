@@ -1,4 +1,4 @@
-### **A Revolução da Computação: IBM 701 e IBM System/360**
+# **A Revolução da Computação: IBM 701 e IBM System/360**
 
 A evolução da computação desde o **ENIAC (1946)** e o **UNIVAC I (1951)** foi marcada por avanços contínuos que transformaram as máquinas experimentais de grande porte em sistemas mais flexíveis e adaptáveis para diferentes aplicações. No centro dessa revolução estavam os computadores da **IBM (International Business Machines Corporation)**, que redefiniram os padrões da computação moderna.
 

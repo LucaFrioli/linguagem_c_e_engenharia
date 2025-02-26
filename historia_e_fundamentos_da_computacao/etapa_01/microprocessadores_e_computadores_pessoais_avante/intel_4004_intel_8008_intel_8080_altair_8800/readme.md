@@ -325,7 +325,7 @@ O **Intel 8080** não foi apenas um processador – **ele foi a faísca que acen
 
 ---
 
-### **Altair 8800 (1975) – O Primeiro Computador Pessoal Popular**
+## **Altair 8800 (1975) – O Primeiro Computador Pessoal Popular**
 
 A chegada do **Altair 8800**, projetado por **Ed Roberts**, marcou um divisor de águas na computação pessoal. Diferente dos grandes computadores de uso industrial e acadêmico da época, ele foi o **primeiro microcomputador acessível a entusiastas e pequenos negócios**, colocando o poder da computação nas mãos de indivíduos e pequenas empresas.
 
@@ -333,7 +333,7 @@ A base para seu funcionamento era o **Intel 8080**, um microprocessador de **8 b
 
 ---
 
-## **Fundamentos Científicos e Tecnológicos do Altair 8800**
+### **Fundamentos Científicos e Tecnológicos do Altair 8800**
 
 Para entender a importância do **Altair 8800**, é essencial analisar os processos **físicos, químicos, matemáticos e eletrônicos** envolvidos na sua construção e funcionamento.
 

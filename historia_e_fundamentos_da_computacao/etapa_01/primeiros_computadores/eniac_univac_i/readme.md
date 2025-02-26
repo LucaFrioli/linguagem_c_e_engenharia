@@ -1,4 +1,4 @@
-### **A Evolução da Computação: Do Colossus ao ENIAC e UNIVAC I**
+# **A Evolução da Computação: Do Colossus ao ENIAC e UNIVAC I**
 
 A transição do **Colossus** para os primeiros computadores de propósito geral, como o **ENIAC (1945)** e o **UNIVAC I (1951)**, representou um salto revolucionário na história da computação. Enquanto o Colossus foi projetado para resolver um problema específico — a decifração de códigos nazistas —, o ENIAC e o UNIVAC I foram os primeiros computadores verdadeiramente programáveis e de uso geral, estabelecendo a base para a computação moderna.
 
