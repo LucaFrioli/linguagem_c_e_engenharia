@@ -26,7 +26,7 @@ Se o objetivo é se tornar um profissional mais completo, capaz de atuar tanto n
   - Métodos científicos aplicados à computação.
   - Modelos matemáticos e a relação com engenharia computacional.
 
-**[Para iniciar o módulo clique aqui !](./historia_e_funamentos_da_computacao/readme.md)** (em processo de produção).
+**[Para iniciar o módulo clique aqui !](./historia_e_fundamentos_da_computacao/readme.md)** (em processo de produção).
 
 [Bibliografia do primeiro módulo](#1-história-da-computação-e-pensamento-computacional)
 
