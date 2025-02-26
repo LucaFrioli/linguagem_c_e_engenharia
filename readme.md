@@ -197,7 +197,8 @@ Se o objetivo é se tornar um profissional mais completo, capaz de atuar tanto n
 
 ### **1. História da Computação e Pensamento Computacional**  
 - Livro **The Innovators** – Walter Isaacson  
-- Conteúdo áudivisual **Triumph of the Nerds** (1996) – Documentário sobre a revolução dos computadores pessoais  
+- Conteúdo áudivisual **Triumph of the Nerds** (1996) – Documentário sobre a revolução dos computadores pessoais  ([clique aqui!](https://youtu.be/XlCaiD5VQRU?si=cSQoQxUJOLPGL8GI))
+- Conteúdo áudivisual **Revolution OS** (2001) – Documentário sobre GNU/Linux  ([clique aqui!](https://youtu.be/Z3f-M43DiD4?si=XcgbVpK7YxXt-tQj)) 
 - Conteúdo áudivisual **A História do Computador** – CrashCourse Computer Science (YouTube)  
 
 ### **2. Arquitetura de Computadores e Hardware**  
