@@ -301,4 +301,6 @@ Segue uma cronologia dos principais cientistas que influenciaram a computação:
 - **Tim Berners-Lee (1955–presente):** Criou a World Wide Web.
 - **Geoffrey Hinton (1947–presente):** Revolucionou a inteligência artificial com redes neurais profundas.
 
-O estudo desses cientistas e suas teorias permite compreender o passado, presente e futuro da computação. Avance para os próximos tópicos e explore como a ciência continua moldando a tecnologia que usamos diariamente. 
+Explorar as teorias e descobertas desses cientistas é mergulhar na essência da computação – compreendendo não apenas seu passado e presente, mas também os caminhos que definirão seu futuro. Cada conceito dominado nos aproxima de uma visão mais profunda e poderosa da tecnologia que transforma o mundo todos os dias. Para nos tornarmos verdadeiros engenheiros e cientistas da computação, é essencial ir além da superfície e dominar essas bases fundamentais. **Aprofunde-se, questione e avance para os próximos tópicos – a ciência continua a moldar o futuro, e ele está em suas mãos.**  
+
+[**Clique aqui para retornar à seleção de etapas deste módulo.**](../../../readme.md)
