@@ -187,3 +187,8 @@
    c) 10 bilhões  
    d) 1 bilhão  
 
+
+
+
+
+***Lembre-se este estudo só depende de você, ao olhar as respostas sem tentar realizar os exercícios propostos é apenas uma auto enganação, então seja verdadeiro consigo mesmo e não auto-sabote seu aprendizado,*** para ver o gabarito [clique aqui!](gabarito.md)

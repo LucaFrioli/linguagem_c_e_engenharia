@@ -1,3 +1,5 @@
+[Voltar para a seleção de etapa](../../readme.md)
+
 # **Questionário de Avaliação – História e Fundamentos da Computação**
 
 Aqui estão os gabaritos e as exxplicações do questionário, cso o google forms tenha saido do ar!
@@ -262,3 +264,5 @@ Aqui estão os gabaritos e as exxplicações do questionário, cso o google form
     - A taxa de execução de instruções por segundo é calculada multiplicando a frequência (2 GHz) pelo IPC (2,5), resultando em 5 bilhões de instruções por segundo.
 
 ---
+
+[Voltar para a seleção de etapa](../../readme.md)

@@ -16,12 +16,14 @@ Seja você um iniciante buscando compreender as raízes da computação ou um pr
   - Arquitetura de Von Neumann e modelos computacionais. [Clique aqui, e siga o caminho que direciona a coompreenção dos modelos computacionais](./etapa_01/teorias_mais_importantes_para_a_computação_hoje/readme.md)
 
 
-  [Realize uma pequena prova para testar seus conhecimentos, clique aqui!](https://forms.gle/eXvbBXSYFpyVzzmZA)
+  ##### **[Realize uma pequena prova para testar seus conhecimentos, clique aqui!](https://forms.gle/eXvbBXSYFpyVzzmZA)**
+  Caso venha parar de funcionar o formulário segue a lista de exercícios, [clique aqui!](./etapa_01/exercicios/readme.md)
+
 
 ## Segunda etapa:
 
-- **Fundamentos do Pensamento Científico e Computacional**
-  - O que é pensamento crítico aplicado à TI?
+- **Fundamentos do Pensamento Científico e Computacional** [Clique aqui e se aprofunde!](./etapa_02/readme.md)
+  - O que é pensamento crítico aplicado à TI? 
   - Importância da análise algorítmica na solução de problemas.
   - Métodos científicos aplicados à computação.
   - Modelos matemáticos e a relação com engenharia computacional.
