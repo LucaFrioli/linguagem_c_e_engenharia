@@ -2,11 +2,11 @@
 
 # Sumário
 
--[René Descartes](#1-rené-descartes-15961650)
--[Gottfried Wilhelm Leibniz](#2-gottfried-wilhelm-leibniz-16461716)
--[Isaac Newton](#3-isaac-newton-16431727)
--[Charles Babbage](#4-charles-babbage-17911871)
--[George Boole](#5-george-boole-18151864)
+- [René Descartes](#1-rené-descartes-15961650)
+- [Gottfried Wilhelm Leibniz](#2-gottfried-wilhelm-leibniz-16461716)
+- [Isaac Newton](#3-isaac-newton-16431727)
+- [Charles Babbage](#4-charles-babbage-17911871)
+- [George Boole](#5-george-boole-18151864)
 
 ---
 

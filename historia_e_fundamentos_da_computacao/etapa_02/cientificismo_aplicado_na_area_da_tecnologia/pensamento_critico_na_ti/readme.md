@@ -47,7 +47,3 @@ Para facilidade de leitura e progreção do pensamento, separei os pensadores po
 3. **Judea Pearl (1936–)** – Desenvolveu redes bayesianas e lógica causal, essenciais em IA moderna.
 4. **Tim Berners-Lee (1955–)** – Criador da World Wide Web; defensor da Web Semântica e da liberdade digital.
 5. **Geoffrey Hinton (1947–)** – Pai do aprendizado profundo (deep learning); base dos avanços modernos em redes neurais e IA generativa.
-
----
-
-Se desejar, posso transformar essa lista em uma visualização interativa para seu projeto, ou mesmo criar fichas de estudo com dados biográficos e contribuições principais para cada autor. Deseja avançar nesse sentido?

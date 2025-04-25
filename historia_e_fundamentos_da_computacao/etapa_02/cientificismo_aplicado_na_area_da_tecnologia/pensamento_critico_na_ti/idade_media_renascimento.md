@@ -14,14 +14,14 @@
 
 ## 1. **Boécio (c. 480–524)**
 
-Anicius Manlius Severinus Boethius foi um estadista e filósofo romano nascido em Roma por volta de 480 d.C. e morto em Pavia em 524 d.C. Nobre de origem patrícia, foi adotado pelo cônsul Quintus Aurelius Memmius Symmachus, que o introduziu aos estudos clássicos. Boécio tornou-se cônsul em 510 d.C. no Reino Ostrogótico e, mais tarde, magister officiorum, sob o reinado de Teodorico, dedicando‐se paralelamente à preservação e tradução dos textos filosóficos gregos para o latim. Sua obra mais famosa, **_De Consolatione Philosophiae_**, redigida durante o cárcere, tornou‐se um dos pilares do pensamento medieval europeu ([Boethius](https://en.wikipedia.org/wiki/Boethius?utm_source=chatgpt.com)).
+Anicius Manlius Severinus Boethius foi um estadista e filósofo romano nascido em Roma por volta de 480 d.C. e morto em Pavia em 524 d.C. Nobre de origem patrícia, foi adotado pelo cônsul Quintus Aurelius Memmius Symmachus, que o introduziu aos estudos clássicos. Boécio tornou-se cônsul em 510 d.C. no Reino Ostrogótico e, mais tarde, magister officiorum, sob o reinado de Teodorico, dedicando‐se paralelamente à preservação e tradução dos textos filosóficos gregos para o latim. Sua obra mais famosa, **_De Consolatione Philosophiae_**, redigida durante o cárcere, tornou‐se um dos pilares do pensamento medieval europeu.
 
 ---
 
 ### 1. Principais áreas de estudo
 
 - **Lógica e Dialética**  
-  Boécio traduziu para o latim obras essenciais de Aristóteles, como _Categories_ e _De Interpretatione_, firmando a lógica silogística na escolástica medieval. Organizou ainda o _Square of Opposition_, ferramenta fundamental para o raciocínio formal ([Boethius](https://en.wikipedia.org/wiki/Boethius?utm_source=chatgpt.com)).
+  Boécio traduziu para o latim obras essenciais de Aristóteles, como _Categories_ e _De Interpretatione_, firmando a lógica silogística na escolástica medieval. Organizou ainda o _Square of Opposition_, ferramenta fundamental para o raciocínio formal.
 - **Matemática (Quadrivium)**  
   Escreveu comentários sobre tratados de aritmética (baseados em Nicômaco) e música (De institutione musica), além de estudos de geometria e astronomia, compondo o currículo medieval do quadrivium – aritmética, geometria, música e astronomia.
 - **Filosofia (Neoplatonismo e Cristianismo)**  
