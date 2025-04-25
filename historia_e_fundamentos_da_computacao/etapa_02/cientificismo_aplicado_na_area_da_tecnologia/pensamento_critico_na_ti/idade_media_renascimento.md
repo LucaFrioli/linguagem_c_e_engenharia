@@ -216,7 +216,6 @@ Se Tomás de Aquino nos ensinou a unir lógica, ética e abstração em um siste
 
 ## 4.**Leonardo da Vinci (1452–1519)**
 
-_“O Polímata Visionário: Arte, Ciência e Engenharia em Harmonia”_
 
 ---
 
