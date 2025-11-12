@@ -1,5 +1,10 @@
 # **Estudos de C, processos de Engenharia Computacional e pensamento científico**  
 
+---
+Assim que possivel estarei retirando a bibliografia do ar e estarei entrando em contato com autores, buscando disponibilizar elas de forma legal, por gentileza, não utilize de forma alguma nenhum texto sem autorização prévia. Esta ação esta sendo realizada de madrugada visando minimizar immpactos. Qualquer dúvida por gentilezza entrar em contato:  
+### **lucafrioli7@gmail.com**
+---
+
 Aprender C não é apenas um passo para se tornar um programador, mas para se tornar um verdadeiro engenheiro de software. Diferente de linguagens de alto nível, que abstraem muitos detalhes do funcionamento do hardware, C permite que você entenda profundamente como um computador realmente opera, desde a manipulação da memória até a execução de instruções na CPU.
 
 Este estudo não se limita a ensinar a sintaxe da linguagem, mas se propõe a formar uma base sólida em engenharia computacional. Você não apenas aprenderá a escrever código eficiente, mas também compreenderá os princípios fundamentais da arquitetura de computadores, eletrônica digital, sistemas operacionais e algoritmos de baixo nível.
