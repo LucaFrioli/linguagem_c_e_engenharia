@@ -30,20 +30,37 @@ Para facilidade de leitura e progreção do pensamento, separei os pensadores po
 ## Em elaboração...
 ---
 
-## 🧠 **Século XX – A era da computação e da informação**
+## 🧠 [**Século XX – A era da computação e da informação**](./era_da_computacao_e_infromacao.md)
 
-1. **Alan Turing (1912–1954)** – Criador da Máquina de Turing; fundador da ciência da computação e da IA.
-3. **John von Neumann (1903–1957)** – Arquiteto da estrutura moderna de computadores.
-2. **Claude Shannon (1916–2001)** – Fundador da teoria da informação; base de redes digitais e compressão de dados.
+1. **John von Neumann (1903–1957)** – Arquiteto da estrutura moderna de computadores.
+2. **Alan Turing (1912–1954)** – Criador da Máquina de Turing; fundador da ciência da computação e da IA.
+3. **Claude Shannon (1916–2001)** – Fundador da teoria da informação; base de redes digitais e compressão de dados.
 4. **Herbert A. Simon (1916–2001)** – Criador da teoria da racionalidade limitada e IA simbólica.
-5. **Donald Knuth (1938–)** – Autor de _The Art of Computer Programming_; referência máxima em algoritmos e ciência da computação teórica.
+5. **Norbert Wiener (1894–1964)** – Pai da cibernética; articulou os fundamentos do controle automático e feedback em sistemas.
+6. **Kurt Gödel (1906–1978)** – Lógico matemático; seus teoremas de incompletude impactaram a fundação da computação e da IA.
+7. **Alonzo Church (1903–1995)** – Criador do cálculo lambda; formulou fundamentos formais do que é computável.
+8. **Grace Hopper (1906–1992)** – Pioneira em linguagens de programação; criou o primeiro compilador.
+9. **Joseph Weizenbaum (1923–2008)** – Criador do ELIZA e crítico da IA; precursor da ética computacional.
+10. **Edsger Dijkstra (1930–2002)** – Contribuiu para algoritmos, programação estruturada e correção formal.
+11. **Niklaus Wirth (1934–)** – Criador da linguagem Pascal; pensador da simplicidade e clareza no design de software.
+12. **Donald Knuth (1938–)** – Autor de *The Art of Computer Programming*; referência máxima em algoritmos e ciência teórica.
+13. **Marvin Minsky (1927–2016)** – Cofundador da IA simbólica e teórico da mente computacional.
+14. **John McCarthy (1927–2011)** – Inventor do termo "Inteligência Artificial"; criador da linguagem LISP.
+15. **Seymour Papert (1928–2016)** – Fundador do construcionismo computacional; desenvolveu o LOGO e defendeu o uso criativo de computadores na educação.
 
 ---
 
-## 🌐 **Século XXI – Pensadores emergentes e influentes atuais**
+## 🌐 [**Século XXI – Pensadores emergentes e influentes atuais**](./pensadores_contemporaneos.md)
 
-1. **Luciano Floridi (1964–)** – Criador da filosofia da informação; referência em ética digital e infosfera.
-2. **Shoshana Zuboff (1951–)** – Crítica do capitalismo de vigilância; base para discussões éticas em TI.
-3. **Judea Pearl (1936–)** – Desenvolveu redes bayesianas e lógica causal, essenciais em IA moderna.
-4. **Tim Berners-Lee (1955–)** – Criador da World Wide Web; defensor da Web Semântica e da liberdade digital.
-5. **Geoffrey Hinton (1947–)** – Pai do aprendizado profundo (deep learning); base dos avanços modernos em redes neurais e IA generativa.
+1. **Judea Pearl (1936–)** – Desenvolveu redes bayesianas e lógica causal, essenciais para IA moderna.
+2. **Shoshana Zuboff (1951–)** – Crítica do capitalismo de vigilância; referência central na ética dos dados e big tech.
+3. **Tim Berners-Lee (1955–)** – Criador da World Wide Web; defensor da Web Semântica e da descentralização da internet.
+4. **Geoffrey Hinton (1947–)** – Pai do deep learning; base das redes neurais modernas e da IA generativa.
+5. **Luciano Floridi (1964–)** – Criador da filosofia da informação; promove ética da tecnologia, IA e infosfera.
+6. **Barbara Liskov (1939–)** – Criadora do princípio de substituição de Liskov; pioneira em programação orientada a objetos e sistemas distribuídos.
+7. **Jaron Lanier (1960–)** – Pioneiro da realidade virtual; crítico da cultura algorítmica e das redes sociais.
+8. **Donald Norman (1935–)** – Pai do design centrado no usuário; autor de *The Design of Everyday Things*.
+9. **Alan Kay (1940–)** – Criador da Smalltalk e da ideia de computadores pessoais como ferramentas de expressão.
+10. **Douglas Engelbart (1925–2013)** – Inventor do mouse e visionário da colaboração interativa em rede.
+11. **Ted Nelson (1937–)** – Criador do conceito de hipertexto e crítico das limitações estruturais da web atual.
+

@@ -2,17 +2,18 @@
 
 # Sumário
 
-- [René Descartes](#1-rené-descartes-15961650)
-- [Gottfried Wilhelm Leibniz](#2-gottfried-wilhelm-leibniz-16461716)
-- [Isaac Newton](#3-isaac-newton-16431727)
-- [Charles Babbage](#4-charles-babbage-17911871)
-- [George Boole](#5-george-boole-18151864)
+- [René Descartes](#1-rené-descartes-1596-1650)
+- [Gottfried Wilhelm Leibniz](#2-gottfried-wilhelm-leibniz-1646-1716)
+- [Isaac Newton](#3-isaac-newton-1643-1727)
+- [Charles Babbage](#4-charles-babbage-1791-1871)
+- [Ada Lovlance](#5-ada-lovelace-1815-1852)
+- [George Boole](#6-george-boole-1815-1864)
 
 ---
 
-# **Séculos XVII a XIX – Revolução científica e mecanização**
+# **Séculos XVII a XIX - Revolução científica e mecanização**
 
-## 1. **René Descartes (1596–1650)**
+## 1. **René Descartes (1596-1650)**
 
 ---
 
@@ -37,16 +38,16 @@ René Descartes nasceu em 31 de março de 1596, em La Haye (Turena, França), e 
 
 ### 3. Influências Recebidas
 
-1. **Aristóteles** – Absorveu o rigor da lógica silogística, mas substituiu a estrutura qualitativa por deduções algébricas; base para sistemas de inferência automática.
-2. **Euclides** – Inspirou-o a buscar axiomas claros e demonstrações rigorosas, precursora das especificações formais em software (model checking).
-3. **Pitágoras** – A crença na harmonia numérica reforçou sua convicção de que a natureza se expressa em linguagem matemática.
-4. **Platão** – A noção de Formas ideais guiou a abstração cartesiana de pontos, linhas e planos como entidades perfeitas antes de sua representação numérica.
-5. **Arquimedes** – Os métodos de exaustão o motivaram a estruturar procedimentos de aproximação e limites, fundamento dos algoritmos numéricos iterativos.
-6. **Boécio** – A mediação entre lógica aristotélica e quadrivium ofereceu-lhe um modelo de integração de disciplinas — tão útil em projetos de TI multidisciplinares.
-7. **Al-Khwārizmī** – Sua sistematização algébrica inspirou Descartes a manipular incógnitas e coordenadas como variáveis em transformações geométricas.
-8. **Tomás de Aquino** – A disciplina de conciliar fé e razão ecoou em seu próprio desejo de unir método lógico e evidência empírica.
-9. **Leonardo da Vinci** – O espírito polímata e a prática de esboçar soluções motivaram Descartes a ilustrar coordenadas e curvas em esquemas visuais.
-10. **Giordano Bruno** – Sua ousadia especulativa encorajou Descartes a questionar tradições geocêntricas e a propor novos paradigmas de espaço matemático.
+1. **Aristóteles** - Absorveu o rigor da lógica silogística, mas substituiu a estrutura qualitativa por deduções algébricas; base para sistemas de inferência automática.
+2. **Euclides** - Inspirou-o a buscar axiomas claros e demonstrações rigorosas, precursora das especificações formais em software (model checking).
+3. **Pitágoras** - A crença na harmonia numérica reforçou sua convicção de que a natureza se expressa em linguagem matemática.
+4. **Platão** - A noção de Formas ideais guiou a abstração cartesiana de pontos, linhas e planos como entidades perfeitas antes de sua representação numérica.
+5. **Arquimedes** - Os métodos de exaustão o motivaram a estruturar procedimentos de aproximação e limites, fundamento dos algoritmos numéricos iterativos.
+6. **Boécio** - A mediação entre lógica aristotélica e quadrivium ofereceu-lhe um modelo de integração de disciplinas — tão útil em projetos de TI multidisciplinares.
+7. **Al-Khwārizmī** - Sua sistematização algébrica inspirou Descartes a manipular incógnitas e coordenadas como variáveis em transformações geométricas.
+8. **Tomás de Aquino** - A disciplina de conciliar fé e razão ecoou em seu próprio desejo de unir método lógico e evidência empírica.
+9. **Leonardo da Vinci** - O espírito polímata e a prática de esboçar soluções motivaram Descartes a ilustrar coordenadas e curvas em esquemas visuais.
+10. **Giordano Bruno** - Sua ousadia especulativa encorajou Descartes a questionar tradições geocêntricas e a propor novos paradigmas de espaço matemático.
 
 ---
 
@@ -79,7 +80,7 @@ Partindo do método analítico e da geometria algébrica de Descartes, **Leibniz
 
 ---
 
-## 2. **Gottfried Wilhelm Leibniz (1646–1716)**
+## 2. **Gottfried Wilhelm Leibniz (1646-1716)**
 
 ---
 
@@ -106,17 +107,17 @@ Gottfried Wilhelm Leibniz nasceu em 1º de julho de 1646, em Leipzig (Sacro Imp�
 
 Leibniz consolidou e reformulou séculos de pensamento, incorporando:
 
-- **Aristóteles** – A lógica silogística inspirou sua busca por regras formais de inferência que embasam linguagens de programação e motores de inferência automática.
-- **Euclides** – O rigor axiomático e as demonstrações geométricas inspiraram sua ênfase em fundamentar o cálculo em bases inequívocas.
-- **Pitágoras** – A convicção de que “tudo é número” sustentou sua visão de que a realidade poderia ser codificada em valores binários.
-- **Platão** – A noção de Formas perfeitas guiou o ideal de uma “linguagem absoluta” onde cada conceito teria um símbolo inequívoco.
-- **Arquimedes** – Os métodos de exaustão anteciparam seu trabalho no cálculo infinitesimal, usando somas de parcelas cada vez menores.
-- **Boécio** – A mediação do quadrivium (aritmética, geometria, música e astronomia) junto à lógica serviu-lhe de modelo para unir áreas do saber em um sistema coerente.
-- **Al-Khwārizmī** – A concepção de “al-jabr” e “al-muqābala” deu-lhe o exemplo de tratar equações de forma algorítmica, base dos fluxos de controle em software.
-- **Tomás de Aquino** – A integração de fé e razão reforçou seu ideal de um método capaz de conciliar intuição e demonstração lógica.
-- **Leonardo da Vinci** – O polimatismo inspirou sua prática de prototipar máquinas de calcular e de esboçar diagramas de raciocínio.
-- **Giordano Bruno** – O espírito de romper limites conceptuais alimentou seu projeto de uma linguagem que ultrapassasse as fronteiras nacionais e disciplinares.
-- **René Descartes** – O método analítico cartesiano de decomposição de problemas influenciou seu próprio **calculus ratiocinator**, uma máquina mental de tirar conclusões passo a passo.
+- **Aristóteles** - A lógica silogística inspirou sua busca por regras formais de inferência que embasam linguagens de programação e motores de inferência automática.
+- **Euclides** - O rigor axiomático e as demonstrações geométricas inspiraram sua ênfase em fundamentar o cálculo em bases inequívocas.
+- **Pitágoras** - A convicção de que “tudo é número” sustentou sua visão de que a realidade poderia ser codificada em valores binários.
+- **Platão** - A noção de Formas perfeitas guiou o ideal de uma “linguagem absoluta” onde cada conceito teria um símbolo inequívoco.
+- **Arquimedes** - Os métodos de exaustão anteciparam seu trabalho no cálculo infinitesimal, usando somas de parcelas cada vez menores.
+- **Boécio** - A mediação do quadrivium (aritmética, geometria, música e astronomia) junto à lógica serviu-lhe de modelo para unir áreas do saber em um sistema coerente.
+- **Al-Khwārizmī** - A concepção de “al-jabr” e “al-muqābala” deu-lhe o exemplo de tratar equações de forma algorítmica, base dos fluxos de controle em software.
+- **Tomás de Aquino** - A integração de fé e razão reforçou seu ideal de um método capaz de conciliar intuição e demonstração lógica.
+- **Leonardo da Vinci** - O polimatismo inspirou sua prática de prototipar máquinas de calcular e de esboçar diagramas de raciocínio.
+- **Giordano Bruno** - O espírito de romper limites conceptuais alimentou seu projeto de uma linguagem que ultrapassasse as fronteiras nacionais e disciplinares.
+- **René Descartes** - O método analítico cartesiano de decomposição de problemas influenciou seu próprio **calculus ratiocinator**, uma máquina mental de tirar conclusões passo a passo.
 
 ---
 
@@ -151,7 +152,7 @@ Enquanto Leibniz formulava o **cálculo infinitesimal** e o **sistema binário**
 
 --
 
-## 3. **Isaac Newton (1643–1727)**
+## 3. **Isaac Newton (1643-1727)**
 
 ---
 
@@ -178,18 +179,18 @@ Isaac Newton nasceu em 25 de dezembro de 1642 (calendário juliano; 4 de janeiro
 
 Newton sintetizou um legado milenar para criar seu sistema científico:
 
-- **Aristóteles** – O rigor silogístico inspirou o método dedutivo que ele refinou em abordagens matemáticas e experimentais.
-- **Euclides** – A estrutura axiomática de _Os Elementos_ guiou sua busca por leis universais expressas em poucos princípios.
-- **Pitágoras** – A crença na primazia dos números fundamentou sua visão de que a natureza obedece a relações matemáticas.
-- **Platão** – A ideia de Formas perfeitas ecoou em sua concepção de leis naturais imutáveis.
-- **Arquimedes** – Seus métodos de exaustão anteciparam os cálculos de limites e séries infinitas utilizados no cálculo.
-- **Boécio** – A integração do quadrivium (aritmética, geometria, música, astronomia) e da lógica forneceu a Newton um modelo de conhecimento unificado.
-- **Al-Khwārizmī** – O tratamento sistemático de equações influenciou o uso de métodos algorítmicos e de notações simbólicas.
-- **Tomás de Aquino** – A conciliação entre razão e revelação inspirou Newton a tratar teologia com a mesma seriedade metodológica da ciência.
-- **Leonardo da Vinci** – O olhar polímata e a prática de registrar observações visuais motivaram‐no a documentar meticulosamente experimentos e esboços.
-- **Giordano Bruno** – A ousadia especulativa de um cosmos infinito reforçou a ambição newtoniana de explicar todos os fenômenos físicos.
-- **René Descartes** – Herdou o método de decompor problemas em partes simples e a geometria analítica, ampliando-os para o espaço físico real.
-- **Gottfried Leibniz** – O desenvolvimento paralelo do cálculo demonstrou a universalidade daquele instrumento matemático.
+- **Aristóteles** - O rigor silogístico inspirou o método dedutivo que ele refinou em abordagens matemáticas e experimentais.
+- **Euclides** - A estrutura axiomática de _Os Elementos_ guiou sua busca por leis universais expressas em poucos princípios.
+- **Pitágoras** - A crença na primazia dos números fundamentou sua visão de que a natureza obedece a relações matemáticas.
+- **Platão** - A ideia de Formas perfeitas ecoou em sua concepção de leis naturais imutáveis.
+- **Arquimedes** - Seus métodos de exaustão anteciparam os cálculos de limites e séries infinitas utilizados no cálculo.
+- **Boécio** - A integração do quadrivium (aritmética, geometria, música, astronomia) e da lógica forneceu a Newton um modelo de conhecimento unificado.
+- **Al-Khwārizmī** - O tratamento sistemático de equações influenciou o uso de métodos algorítmicos e de notações simbólicas.
+- **Tomás de Aquino** - A conciliação entre razão e revelação inspirou Newton a tratar teologia com a mesma seriedade metodológica da ciência.
+- **Leonardo da Vinci** - O olhar polímata e a prática de registrar observações visuais motivaram‐no a documentar meticulosamente experimentos e esboços.
+- **Giordano Bruno** - A ousadia especulativa de um cosmos infinito reforçou a ambição newtoniana de explicar todos os fenômenos físicos.
+- **René Descartes** - Herdou o método de decompor problemas em partes simples e a geometria analítica, ampliando-os para o espaço físico real.
+- **Gottfried Leibniz** - O desenvolvimento paralelo do cálculo demonstrou a universalidade daquele instrumento matemático.
 
 ---
 
@@ -222,7 +223,7 @@ Partindo das equações e simulações matemáticas de Newton, **Charles Babbage
 
 ---
 
-## 4. **Charles Babbage (1791–1871)**
+## 4. **Charles Babbage (1791-1871)**
 
 ---
 
@@ -251,19 +252,19 @@ Charles Babbage nasceu em 26 de dezembro de 1791, em Londres, e faleceu em 18 de
 
 Babbage percorreu toda a tradição intelectual clássica e medieval ao desenvolver suas máquinas:
 
-- **Aristóteles** – O rigor da lógica silogística inspirou-o a decompor tarefas complexas em operações elementares, princípio dos algoritmos.
-- **Euclides** – A busca por precisão geométrica refletiu-se no projeto milimétrico das engrenagens e na exatidão dos mecanismos.
-- **Pitágoras** – A crença na harmonia numérica guiou seu uso de proporções exatas em rodas dentadas e escalas de contagem.
-- **Platão** – A ideia de formas perfeitas motivou conceitos de “módulos padrão” em máquinas, antecessores de componentes de hardware reutilizáveis.
-- **Arquimedes** – Os princípios de alavancas e centros de gravidade orientaram seus mecanismos de transmissão de força.
-- **Boécio** – A mediação do quadrivium reforçou sua visão interdisciplinar de matemática, música mecânica (cálculo de relógios) e astronomia (tabelas de posições planetárias).
-- **Al-Khwārizmī** – O trabalho sobre algoritmos de redução e equilíbrio estimulou o método de calcular diferenças finitas de forma mecânica.
-- **Tomás de Aquino** – O hábito de conciliar sistemas complexos e doutrina racional influenciou sua abordagem sistemática de design de máquinas.
-- **Leonardo da Vinci** – O espírito polímata e os cadernos de esboços mecânicos encorajaram-no a documentar cada detalhe funcional dos seus projetos.
-- **Giordano Bruno** – A ousadia de imaginar universos múltiplos ecoou em sua ambição de construir máquinas capazes de executar qualquer cálculo concebível.
-- **René Descartes** – O método de decomposição cartesiano foi aplicado na análise de cada engrenagem e na sequência lógica de operações.
-- **Gottfried Leibniz** – O conceito de cálculo simbólico motivou o sonho de um “motor de raciocínio” capaz de operar símbolos como números.
-- **Isaac Newton** – As leis do movimento e do cálculo infinitesimal fundamentaram as equações que Babbage implementou mecanicamente em sua Difference Engine.
+- **Aristóteles** - O rigor da lógica silogística inspirou-o a decompor tarefas complexas em operações elementares, princípio dos algoritmos.
+- **Euclides** - A busca por precisão geométrica refletiu-se no projeto milimétrico das engrenagens e na exatidão dos mecanismos.
+- **Pitágoras** - A crença na harmonia numérica guiou seu uso de proporções exatas em rodas dentadas e escalas de contagem.
+- **Platão** - A ideia de formas perfeitas motivou conceitos de “módulos padrão” em máquinas, antecessores de componentes de hardware reutilizáveis.
+- **Arquimedes** - Os princípios de alavancas e centros de gravidade orientaram seus mecanismos de transmissão de força.
+- **Boécio** - A mediação do quadrivium reforçou sua visão interdisciplinar de matemática, música mecânica (cálculo de relógios) e astronomia (tabelas de posições planetárias).
+- **Al-Khwārizmī** - O trabalho sobre algoritmos de redução e equilíbrio estimulou o método de calcular diferenças finitas de forma mecânica.
+- **Tomás de Aquino** - O hábito de conciliar sistemas complexos e doutrina racional influenciou sua abordagem sistemática de design de máquinas.
+- **Leonardo da Vinci** - O espírito polímata e os cadernos de esboços mecânicos encorajaram-no a documentar cada detalhe funcional dos seus projetos.
+- **Giordano Bruno** - A ousadia de imaginar universos múltiplos ecoou em sua ambição de construir máquinas capazes de executar qualquer cálculo concebível.
+- **René Descartes** - O método de decomposição cartesiano foi aplicado na análise de cada engrenagem e na sequência lógica de operações.
+- **Gottfried Leibniz** - O conceito de cálculo simbólico motivou o sonho de um “motor de raciocínio” capaz de operar símbolos como números.
+- **Isaac Newton** - As leis do movimento e do cálculo infinitesimal fundamentaram as equações que Babbage implementou mecanicamente em sua Difference Engine.
 
 ---
 
@@ -297,12 +298,102 @@ Babbage percorreu toda a tradição intelectual clássica e medieval ao desenvol
 
 ---
 
-Tendo Charles Babbage estabelecido a **arquitetura e a programabilidade mecânica**, **George Boole** formalizará, em 1847–1854, a **álgebra booleana**, traduzindo operações lógicas em notações algébricas. Logo veremos como seu sistema de variáveis verdadeiras e falsas se tornou a base da lógica digital e dos circuitos eletrônicos que alimentam todo o hardware e a computação de hoje.
+Tendo Charles Babbage estabelecido a **arquitetura e a programabilidade mecânica**, **George Boole** formalizará, em 1847-1854, a **álgebra booleana**, traduzindo operações lógicas em notações algébricas. Logo veremos como seu sistema de variáveis verdadeiras e falsas se tornou a base da lógica digital e dos circuitos eletrônicos que alimentam todo o hardware e a computação de hoje.
 
 ---
 
-## 5. **George Boole (1815–1864)**  
-   _“O matemático que transformou o “verdadeiro/falso” em linguagem das máquinas”_
+## 5. **Ada Lovelace (1815-1852)**
+
+---
+
+### 1. Breve Biografia
+
+Augusta Ada King, Condessa de Lovelace, nasceu em 10 de dezembro de 1815, em Londres, filha do poeta Lord Byron e da matemática Annabella Milbanke. Criada com forte ênfase em ciências exatas para evitar a “imaginação poética” do pai, Ada desde cedo se destacou em matemática e lógica. Em 1833, conheceu Charles Babbage, com quem iniciou uma colaboração intelectual intensa. Em 1842, traduziu um artigo do engenheiro italiano Luigi Menabrea sobre a **Analytical Engine**, acrescentando notas próprias que triplicavam o tamanho do texto original. Nessas notas, Ada descreveu conceitos de **programação**, como laços e sub-rotinas, e é amplamente reconhecida como a **primeira programadora da história**.
+
+---
+
+### 2. Principais Áreas de Estudo
+
+- **Matemática e Lógica**
+
+  - Focou na manipulação simbólica de variáveis, algoritmos e sequências de instruções, muito além do cálculo numérico puro.
+
+- **Programação Pioneira**
+
+  - Escreveu o primeiro algoritmo publicado destinado a ser executado por uma máquina; reconheceu que máquinas poderiam manipular símbolos, não apenas números.
+
+- **Filosofia da Computação**
+
+  - Antecipou que máquinas poderiam processar música, linguagem e lógica se devidamente programadas — visão precursora da inteligência artificial.
+
+- **Ciência e Imaginação**
+
+  - Criou o conceito de "ciência poética", unindo criatividade e rigor, permitindo a concepção de aplicações da computação que só se tornariam realidade um século depois.
+
+---
+
+### 3. Influências Recebidas
+
+- **Mary Somerville** - Cientista escocesa e mentora de Ada, que a encorajou a perseguir estudos avançados em matemática, servindo de ponte com Babbage.
+- **Isaac Newton** - Seu método de análise e dedução científica foi incorporado por Ada no estudo da lógica formal e das séries matemáticas.
+- **Luigi Menabrea** - Seu artigo técnico sobre a Analytical Engine foi o ponto de partida para as famosas **Notas de Lovelace**.
+- **Charles Babbage** - A influência direta mais marcante. Ada não apenas compreendeu as ideias de Babbage, mas **foi além**, percebendo o potencial da máquina para realizar qualquer processo lógico, não apenas cálculos aritméticos. Onde Babbage via engrenagens, Ada via linguagem.
+- **Leibniz e Boole (em germinação)** - Embora contemporânea da lógica booleana em desenvolvimento, Ada já antecipava a ideia de manipulação simbólica que Boole formalizaria poucos anos depois.
+- **Lord Byron (indiretamente)** - Apesar da relação distante, o impulso criativo herdado do pai foi reorientado por Ada em direção ao raciocínio abstrato e científico.
+
+---
+
+### 4. Legado na Engenharia de Software, Hardware e TI
+
+1. **Programação como Conceito**
+
+   - Introduziu a noção de instruções sequenciais, loops e operações condicionais — base dos algoritmos modernos.
+
+2. **Visão Computacional Geral**
+
+   - Antecipou que computadores poderiam manipular **informações não numéricas**, como texto e música, estabelecendo a base para multimídia, IA e linguagens naturais.
+
+3. **Abstração e Símbolos**
+
+   - Destacou-se por pensar além do hardware físico, focando no **poder transformador do software**.
+
+4. **Documentação e Comentário de Código**
+
+   - Suas **notas explicativas** são protótipos do comentário de código moderno, mostrando a importância da clareza na documentação.
+
+5. **Ciência Interdisciplinar**
+
+   - Representa o arquétipo do pensamento computacional **integrado a outras áreas do conhecimento**, hoje essencial na ciência de dados, design e ciências cognitivas.
+
+---
+
+### 5. Aprendendo com Ada Hoje
+
+- **Pense além do número**
+
+  - Aplique algoritmos a dados simbólicos — texto, som, imagem — explorando as possibilidades da computação criativa.
+
+- **Escreva algoritmos claros e explicativos**
+
+  - Produza código bem comentado e com documentação acessível, à moda das Notas de Lovelace.
+
+- **Explore a interseção arte-ciência**
+
+  - Busque inspiração em áreas como música, literatura e filosofia ao projetar soluções tecnológicas.
+
+- **Estude a história da computação**
+
+  - Compreender a visão de Ada ajuda a entender os fundamentos e os limites da computação moderna.
+
+- **Valorize a visão sistêmica**
+
+  - Cultive o olhar que enxerga o potencial de uma tecnologia além de seu uso imediato, como Ada fez com a Analytical Engine.
+
+---
+
+## 6. **George Boole (1815-1864)**
+
+_“O matemático que transformou o “verdadeiro/falso” em linguagem das máquinas”_
 
 ---
 
@@ -329,6 +420,8 @@ George Boole nasceu em 2 de novembro de 1815, em Lincoln, Inglaterra, e faleceu 
 
 Boole bebeu de milênios de tradição intelectual, reinterpretando-os em seu sistema lógico:
 
+### Influências Recebidas – **George Boole**
+
 - **Aristóteles** – A lógica silogística forneceu o molde para suas operações de conjunção, disjunção e negação.
 - **Euclides** – O rigor axiomático inspirou sua busca por poucos postulados que sustentassem toda a álgebra booleana.
 - **Pitágoras** – A crença de que “tudo é número” motivou a codificação de verdades lógicas em valores numéricos.
@@ -343,6 +436,7 @@ Boole bebeu de milênios de tradição intelectual, reinterpretando-os em seu si
 - **Gottfried Wilhelm Leibniz** – O sonho de uma “linguagem universal” e de um _calculus ratiocinator_ serviu de modelo direto para a álgebra booleana.
 - **Isaac Newton** – O uso do cálculo infinitesimal reforçou sua familiaridade com operações simbólicas, aplicada depois à lógica.
 - **Charles Babbage** – A ideia de processar operações mecânicas de forma automática sugeriu a Boole que sua lógica poderia ser “executada” em máquinas.
+- **Ada Lovelace** – Sua visão de que máquinas poderiam **manipular símbolos, ideias e linguagens**, não apenas números, reforçou o escopo da lógica booleana como base para sistemas capazes de representar e processar qualquer forma de conhecimento estruturado.
 
 ---
 
@@ -364,7 +458,7 @@ Boole bebeu de milênios de tradição intelectual, reinterpretando-os em seu si
 ### 5. Aprendendo com Boole Hoje
 
 1. **Estude Autômato Lógico**
-   - Experimente simular expressões booleanas em minimizadores de lógica (Quine–McCluskey) e veja como elas se traduzem em circuitos reais.
+   - Experimente simular expressões booleanas em minimizadores de lógica (Quine-McCluskey) e veja como elas se traduzem em circuitos reais.
 2. **Pratique Álgebra Booleana**
    - Simplifique funções lógicas à mão antes de implementá-las em software ou hardware; entenda o impacto em performance e área física.
 3. **Use Ferramentas de Verificação**
@@ -376,7 +470,7 @@ Boole bebeu de milênios de tradição intelectual, reinterpretando-os em seu si
 
 ---
 
-A partir de Boole, a lógica proposicional ganhou corpo em máquinas digitais. No **Século XX**, essa base permitiu a **Máquina de Turing** — modelo abstrato de computação que opera sobre fitas de símbolos booleanos — e consolidou a **ciência da computação** e a **inteligência artificial**. Logo então exploraremos **Alan Turing**, cuja teoria de máquinas universais e o famoso Teste de Turing levaram o legado booliano ao cerne dos algoritmos, criptografia e sistemas inteligentes.
+A partir de Boole, a lógica proposicional ganhou corpo em máquinas digitais. No **século XX**, essa base permitiu a formulação da **arquitetura de von Neumann** — um modelo funcional de computador com memória, unidade aritmética e controle central — que consolidou a **estrutura lógica dos sistemas computacionais modernos**. Em breve, exploraremos **John von Neumann**, cuja visão matemática e engenharia de sistemas levou o legado booliano ao núcleo da computação digital, influenciando desde linguagens de máquina até o design de processadores e algoritmos.
 
 ---
 
